@@ -107,7 +107,7 @@ The dashboard includes:
 
 # 🖼️ Dashboard Preview
 
-![Dashboard](screenshots/dashboard-overview.png)
+<img src="dashboard-preview.png" width="1000"/>
 
 ---
 
